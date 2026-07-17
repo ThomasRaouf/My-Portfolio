@@ -1,6 +1,12 @@
 # Hi there!
-This website represents my portfolio, this is its first edition so not everything is embedded, but I will definetely do more updates on it in the future!
+This website represents my portfolio, The last update is on 18th of July.
+
 It contains:
 - Some of my previous hardware/software projects.
 - My achievements that I'm most proud of.
 - Means of contact.
+
+Future Plans:
+- Adding a link for downloading my resume.
+- Expanding achievements and projects section.
+- think of more updates!
